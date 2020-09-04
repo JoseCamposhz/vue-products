@@ -1,5 +1,7 @@
 # vue-products
 
+Pequeño proyecto para consumir una API de Node
+
 ## Project setup
 ```
 npm install
